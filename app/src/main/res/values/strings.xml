@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TiandituDemo</string>
+    <string name="stopRefresh">停止刷新</string>
+    <string name="continueRefresh">继续刷新</string>
+</resources>
